@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How can I apply for admission?",
+    "answer": "You can apply for admission through the college's official website by completing the application form."
+  },
+  {
+    "question": "What courses are available?",
+    "answer": "The college offers undergraduate and postgraduate courses in various fields. Please check the official website for the complete list."
+  },
+  {
+    "question": "What is the admission fee?",
+    "answer": "The admission fee depends on the course you choose. Please contact the college admissions office for the exact amount."
+  },
+  {
+    "question": "What are the eligibility criteria?",
+    "answer": "Eligibility criteria vary by course. Check the course requirements on the college's official website."
+  },
+  {
+    "question": "How can I pay my fees?",
+    "answer": "You can contact the college accounts office to learn about available fee payment methods."
+  },
+  {
+    "question": "Does the college provide hostel facilities?",
+    "answer": "Please contact the college administration to confirm hostel availability and charges."
+  },
+  {
+    "question": "What are the college working hours?",
+    "answer": "College working hours may vary by department. Please contact the college office for current timings."
+  },
+  {
+    "question": "How can I contact the college?",
+    "answer": "You can find the college's contact number and email address on its official website."
+  },
+  {
+    "question": "Are scholarships available?",
+    "answer": "Scholarships may be available depending on eligibility and applicable schemes. Contact the college scholarship office for details."
+  },
+  {
+    "question": "When does the academic year start?",
+    "answer": "The academic year start date depends on the course and admission schedule. Check the official college announcements."
+  }
+]
